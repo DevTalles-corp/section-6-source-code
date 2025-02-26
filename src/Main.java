@@ -4,7 +4,7 @@ public class Main {
         int[] numbersPrimitive = new int[3];
         numbersPrimitive[0] = 10;
         numbersPrimitive[1] = 20;
-        // numbersPrimitive[2] = null; // ❌ Error: No se puede asignar null a un tipo primitivo
+        //  numbersPrimitive[2] = null; // ❌ Error: No se puede asignar null a un tipo primitivo
 
         // Array de Wrapper Integer - Permite null
         Integer[] numbersWrapper = new Integer[3];
